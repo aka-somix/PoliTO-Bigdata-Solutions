@@ -34,8 +34,5 @@ build/
 ### VS Code ###
 .vscode/
 
-### Intellij Idea config ###
-.idea/
-
 ### Mac OS ###
 .DS_Store
