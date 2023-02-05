@@ -9,8 +9,7 @@ import scala.Tuple2;
 
 public class Feb2019SparkDriver {
 
-    private static final String name = "Spark Exam - February 2019";
-
+    private static final String name = "Big Data Architectures Exam - February 2019";
     /**
      * TODO: Scrivi la consegna per A
      * @param sourceRDD : Source RDD from text file
